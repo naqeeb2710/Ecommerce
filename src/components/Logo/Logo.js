@@ -3,7 +3,7 @@ import ElectroTech from "../../assets/img/farmlogo.png";
 
 const Logo = (props) => {
   return (
-    <div onClick={props.click}>
+    <div className='logos' onClick={props.click}>
       <img src={ElectroTech } alt="logo" width={'170px'}  />
     </div>
   )
