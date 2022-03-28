@@ -20,7 +20,7 @@ return (
 	<Container>
 		<Row>
 		<Column style={{margin:"0", paddingRight:"0"}}>
-			<Heading>About Us</Heading>
+			{/* <Heading>About Us</Heading> */}
 			<FooterLink href="#">Shop</FooterLink>
 			<FooterLink href="#">About Us</FooterLink>
 			<FooterLink href="#">Testimonials</FooterLink>
