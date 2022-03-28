@@ -6,7 +6,7 @@ export const storeProducts = [
     price: 500,
     company: "Arduino",
     info:
-      "The Arduino UNO is an AVR microcontroller. It is a board-based microcontroller (small computer on a chip) with facilities for processing data and I/O (input and output) pins for receiving and sending signals to devices. It can be powered and programmed using a computer or mobile phone. Arduino contains a mini/micro or type B USB port that can be used to connect to a PC via the regular USB port, and the connection is done via a USB cable. USBs Programmable Controller ATmega328 Chip You get Board and Cable set DC port available Arduino Shield Compatible",
+      "ng signals to devices. It can be powered and programmed using a computer or mobile phone. Arduino contains a mini/micro or type B USB port that can be used to connect to a PC via the regular USB port, and the connection is done via a USB cable. USBs Programmable Controller ATmega328 Chip You get Board and Cable set DC port available Arduino Shield Compatible",
     inCart: false,
     count: 0,
     total: 0
@@ -85,8 +85,8 @@ export const storeProducts = [
   },
   {
     id: 8,
-    title: "L298 2A Dual Motor Driver Module with PWM Control",
-    img: "img/MOTOR_DRIVER-removebg-preview.png",
+    title: "Herbicides",
+    img: "img/herbicides.jpg",
     price: 129,
     company: " Local",
     info:
@@ -97,8 +97,8 @@ export const storeProducts = [
   },
   {
     id: 9,
-    title: "Jumper Wire (Male to Male)",
-    img: "img/JUMPER_MALE_TO_MALE-removebg-preview.png",
+    title: "Fungicides",
+    img: "img/fungicides.jpg",
     price: 55,
     company: " Local",
     info:
@@ -109,8 +109,8 @@ export const storeProducts = [
   },
   {
     id: 10,
-    title: "Good Quality 2600mAh ICR-18650 3.7V 3C Lithium-ion Battery",
-    img: "img/lithium-removebg-preview.png",
+    title: "Barley",
+    img: "img/barley.jpg",
     price: 129,
     company: " Local",
     info:
@@ -121,9 +121,9 @@ export const storeProducts = [
   },
   {
     id: 11,
-    title: "ESP32 CAM WiFi Bluetooth Module with OV2640 Camera Module",
-    img: "img/esp-removebg-preview.png",
-    price: 625,
+    title: "Wheat",
+    img: "wheat.jpg",
+    price: 100,
     company: " Local",
     info:
       "The ESP32 CAM WiFi Module Bluetooth with OV2640 Camera Module 2MP has a very small size camera module that can operate independently as a minimum system. It has a footprint of 40x27 mm.  ESP32-CAM is a WIFI and Bluetooth dual-mode development board that uses PCB onboard antennas and cores based on ESP32 chips. The ESP integrates WIFI, traditional Bluetooth, and BLE Beacon, with 2 high-performance 32-bit LX6 CPUs, 7-stage pipeline architecture, main frequency adjustment range 80MHz to 240 MHz, on-chip sensor, Hall sensor, temperature sensor, etc. ",
@@ -133,8 +133,8 @@ export const storeProducts = [
   },
   {
     id: 12,
-    title: "FlySky FS-i6 2.4GHz 6CH PPM RC Transmitter With FS-iA6B Receiver",
-    img: "img/controller-removebg-preview.png",
+    title: "Paddy",
+    img: "img/paddy.jpg",
     price: 4750,
     company: " Local",
     info:
