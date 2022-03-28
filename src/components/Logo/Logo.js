@@ -1,10 +1,10 @@
 import React from 'react'
-import ElectroTech from "../../assets/img/logo.png";
+import ElectroTech from "../../assets/img/farmlogo.png";
 
 const Logo = (props) => {
   return (
     <div onClick={props.click}>
-      <img src={ElectroTech } alt="logo" width={'130px'}  />
+      <img src={ElectroTech } alt="logo" width={'170px'}  />
     </div>
   )
 }

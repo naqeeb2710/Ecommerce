@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import classes from "./Home.css";
 import Robot from "./../../assets/img/hero_shape.png";
-import Robo from "./../../assets/img/robo.png";
+import Robo from "./../../assets/img/farm.png";
 import { NavLink } from "react-router-dom";
 import Footer from "../Footer/Footer";
 import Faq from "../FAQ/Faq";

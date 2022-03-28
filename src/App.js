@@ -33,7 +33,7 @@ class App extends Component {
       <> 
       <div className={classes.App}>
         <div className={classes.Container}>
-          <Chatbot/>
+          {/* <Chatbot/> */}
           <Navbar drawerClickHandler={this.drawerToggleClickHandler} />
           <SideDrawer
             show={this.state.sideDrawerOpen}
