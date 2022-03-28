@@ -53,7 +53,7 @@ export default class ProductList extends Component {
   render() {
     return (
       <div className={classes.PageContainer} style={{ textAlign: "center" }}>
-        <Title name="ElectroTech" />
+        <Title name="Kissan Seva" />
 
         <ProductConsumer>
           {(value) => (

@@ -13,24 +13,24 @@ const navigationItems = () => {
 
   return (
     <ul className={classes.NavigationItems}>
-      <button onClick={() => setSignup(true)} className={classes.signup}>
+      {/* <button onClick={() => setSignup(true)} className={classes.signup}>
         Signup
       </button>
       <button onClick={() => setLogin(true)} className={classes.login}>
         Login
-      </button>
+      </button> */}
       <Navigationitem link="/shop">Shop</Navigationitem>
-      <Navigationitem link="/about">About</Navigationitem>
+      {/* <Navigationitem link="/about">About</Navigationitem> */}
       
       <Navigationitem link="/cart" cart="cart">
         <TiShoppingCart className={classes.Cart} />
       </Navigationitem>
-      <Signup trigger={signup} setTrigger={setSignup}>
+      {/* <Signup trigger={signup} setTrigger={setSignup}>
         <Form />
       </Signup>
       <Signup trigger={login} setTrigger={setLogin}>
         <Login />
-      </Signup>
+      </Signup> */}
     </ul>
   );
 };

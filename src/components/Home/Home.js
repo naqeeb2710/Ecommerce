@@ -30,9 +30,9 @@ export default class Home extends Component {
             <img src={Robo} alt='home' className={classes.roboImg} />
           </div>
         </div>
-        <Faq />
+        {/* <Faq /> */}
 
-        <Footer />
+        {/* <Footer /> */}
       </div>
     );
   }
