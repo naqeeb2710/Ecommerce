@@ -1,0 +1,33 @@
+.container{
+  display: flex;
+  position: fixed;
+  bottom: 5vh;
+  right: 5vw;
+  z-index: 9999;
+}
+
+.Chatbot{
+  margin-bottom: 10vh;
+}
+
+.CallToAction{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: #fff;
+  cursor: pointer;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  box-shadow: hsla(254, 64%, 27%, 0.2) 0px 2px 70px 1px;
+  transition: 0.2s linear;
+}
+.CallToAction:hover {
+  transform: translateY(-4px);
+  box-shadow: hsla(254, 56%, 48%, 0.48) 0px 2px 70px 1px;
+}
