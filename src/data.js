@@ -1,8 +1,8 @@
 export const storeProducts = [
   {
     id: 1,
-    title: "Arduino Uno",
-    img: "img/arduino.png",
+    title: "Fertilizer",
+    img: "img/types-of-fertilizer.jpg",
     price: 500,
     company: "Arduino",
     info:
@@ -13,8 +13,8 @@ export const storeProducts = [
   },
   {
     id: 2,
-    title: "Raspberry pi 4",
-    img: "img/Raspberry_Pi_4.png",
+    title: "Organic Manure ",
+    img: "img/download.jpg",
     price: 5000,
     company: "Raspberry ",
     info:
@@ -25,8 +25,8 @@ export const storeProducts = [
   },
   {
     id: 3,
-    title: "KK Flight Controller ",
-    img: "img/KK-1.jpg",
+    title: "Pesticide ",
+    img: "img/16.png",
     price: 2500,
     company: "KK",
     info:
@@ -37,8 +37,8 @@ export const storeProducts = [
   },
   {
     id: 4,
-    title: "Multimeter",
-    img: "img/multimeter.png",
+    title: "Sickle",
+    img: "img/1.jpg",
     price: 200,
     company: "",
     info:
@@ -49,8 +49,8 @@ export const storeProducts = [
   },
   {
     id: 5,
-    title: "NodeMcu",
-    img: "img/nodemcu.png",
+    title: "Shovel",
+    img: "img/2.webp",
     price: 50,
     company: "Local",
     info:
@@ -61,8 +61,8 @@ export const storeProducts = [
   },
   {
     id: 6,
-    title: "Servo Motor",
-    img: "img/servo.png",
+    title: "Seeder",
+    img: "img/3.jpg",
     price: 60,
     company: "IT ",
     info:
@@ -73,8 +73,8 @@ export const storeProducts = [
   },
   {
     id: 7,
-    title: "6A 250V AC SPST ON-OFF Mini Red Switch",
-    img: "img/SWITCH-removebg-preview.png",
+    title: "Insecticides",
+    img: "img/insecticides.jpg",
     price: 4,
     company: " Local",
     info:
